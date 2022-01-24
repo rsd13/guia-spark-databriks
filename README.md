@@ -1,6 +1,6 @@
 # guia-spark-databriks
 
-Esta es una guia/repaso de Apache Spark en Scala hechao por mi. La estructura del proyecto es la siguiente:
+Esta es una guia/repaso de Apache Spark en Scala. La estructura del proyecto es la siguiente:
 - **Practica**: Ejemplos de proyectos de Apacha Spark
 - **Teoria**: Explicación teoria de Apache Spark
   - Teoria: como funciona el núcleo de Spark
